@@ -22,10 +22,10 @@ DEVRHUBIWFEX01,sub-r1hub-nprd-01
 DEVRHUBIWSTG03,sub-r1hub-nprd-01
 DEVRHUBWBND03,sub-r1hub-nprd-01
 DEVRHUBWSTG01,sub-r1hub-nprd-01
-AMATUATWIQB03,sub-intelligentautomation-01
-AMATUATWIQB04,sub-intelligentautomation-01
-AMATUATWWEB04,sub-intelligentautomation-01
-AMATUATWWEB06,sub-intelligentautomation-01
+AMATUATWIQB03,sub-intelligent-automation-01
+AMATUATWIQB04,sub-intelligent-automation-01
+AMATUATWWEB04,sub-intelligent-automation-01
+AMATUATWWEB06,sub-intelligent-automation-01
 DEVAPIGWWWEB03,sub-r1hub-nprd-01
 DEVCMMDWHL701,sub-r1hub-nprd-01
 DEVCMMNWHL701,sub-r1hub-nprd-01
@@ -82,9 +82,9 @@ DEVRHUBWSTG04,sub-r1hub-nprd-01
 DEVTWNAWSQL01,sub-r1hub-nprd-01
 NEXGENDEVDB01,sub-r1hub-nprd-01
 DEVRHUBLAPP02,sub-r1hub-nprd-01
-AMATUATWFIL02,sub-intelligentautomation-01
-AMATUATWWEB03,sub-intelligentautomation-01
-AMATUATWWEB05,sub-intelligentautomation-01
+AMATUATWFIL02,sub-intelligent-automation-01
+AMATUATWWEB03,sub-intelligent-automation-01
+AMATUATWWEB05,sub-intelligent-automation-01
 CMNTABLWMST01,sub-r1-general-nprd-01
 DEVAPIAWAPP03,sub-r1hub-nprd-01
 DEVMULELAPP01,sub-r1-general-nprd-01
@@ -145,7 +145,7 @@ NEXGRHUBWWEB03,sub-r1hub-nprd-01
 NEXGRHUBWWEB04,sub-r1hub-nprd-01
 NEXGRHUBWWEB05,sub-r1hub-nprd-01
 DEVGWSTWAPP01,sub-r1hub-nprd-01
-AMATUATWSQL06,sub-intelligentautomation-01
+AMATUATWSQL06,sub-intelligent-automation-01
 AMATDEVWAPP01,sub-intelligent-automation-01
 AMATDEVWFIL02,sub-intelligent-automation-01
 AMATDEVWFIL03,sub-intelligent-automation-01
